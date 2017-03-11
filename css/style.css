@@ -24,7 +24,7 @@
    6. Portfolio
    7. Testimonial
    8. Statistics
-   9. Services
+   9. signup
   10. Call to Action
   11. Contact Us
   12. Social Icons
@@ -951,19 +951,19 @@ ul.portfolio li.active {
 
 
 
-/* Services */
+/* signup */
 
-.services-section {
+.signup-section {
   background-color: #F9F9F9;
 }
 
-.services-section hr {
+.signup-section hr {
   border-bottom: 2px solid #4c9cef;
   width: 42px;
   margin: 0 auto;
 }
 
-.services-section .services-detail {
+.signup-section .signup-detail {
     border-radius: 100%;
     background-color: #ffffff;
     box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
@@ -976,13 +976,13 @@ ul.portfolio li.active {
     margin-bottom: 30px;
 }
 
-.services-section .services-detail:hover {
+.signup-section .signup-detail:hover {
     border-bottom-right-radius: 4px;
     box-shadow: 0px 16px 22px 0px rgba(90, 91, 95, 0.3);
     top: -5px;
 }
 
-.services-section .services-detail i {
+.signup-section .signup-detail i {
    font-size: 42px;
    margin-top: 88px;
    display: inline-block;
@@ -1391,20 +1391,20 @@ ul.portfolio li.active {
         font-size: 30px;
       }
 	  
-      .services-section hr {
+      .signup-section hr {
           width: 35px;
       }
 	  
-	  .services-section h3 {
+	  .signup-section h3 {
           font-size: 12px;
       }
 
-      .services-section .services-detail {
+      .signup-section .signup-detail {
           width: 180px;
           height: 180px;
       }
 
-      .services-section .services-detail i {
+      .signup-section .signup-detail i {
           font-size: 30px;
           margin-top: 45px;
       }
